@@ -8,8 +8,7 @@ This is an artistic interpretation of the amazing [Synthwave84 theme for Visual 
 ## Installation
 
   1. Ensure you have the latest version of RStudio (at least v1.2, which was [released in April of 2019](https://blog.rstudio.com/2019/04/30/rstudio-1-2-release/))
-  2. Download the Synthwave85.rstheme file from this repository
-  3. Open the program and go to _Tools > Global Options > Appearance>_. There you'll see an "add" button. Click it, and select the rstheme file you just downloaded
+  2. Run this one line of R code! `rstudioapi::addTheme("https://raw.githubusercontent.com/jnolis/synthwave85/master/Synthwave85.rstheme", TRUE, TRUE, FALSE)`
 
 ## Issues
 
