@@ -15,3 +15,15 @@ This is an artistic interpretation of the amazing [Synthwave84 theme for Visual 
 This is more for fun than for practical use: while the glow of code was critical in the 1980s, it unfortunately seems that the cool aesthetic causes the editor to go slowly on larger files.
 
 Editing a theme is kind of a hunt to see if you've made all the necessary changes from your starting template. If there is something that seems wildly out of style in the theme, please raise a GitHub issue!
+
+## Uninstallation / Change Theme
+
+### Change Theme
+
+To chanage your current theme, You can select your desired Theme by going to `Tools > Global Options > Appearance > Editor theme`
+
+### Uninstallation
+
+To uninstall **Synthwave85** (removing it from the list of available Themes), Execute the following code:
+
+`rstudioapi::removeTheme("Synthwave85")`
