@@ -40,7 +40,7 @@
 }
 
 .ace_marker-layer .ace_active-line {
-  background: #3E3D32;
+  background: #441844;
 }
 
 .ace_gutter-active-line {
