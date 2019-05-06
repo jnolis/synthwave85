@@ -20,7 +20,7 @@ Editing a theme is kind of a hunt to see if you've made all the necessary change
 
 ### Change Theme
 
-To chanage your current theme, You can select your desired Theme by going to `Tools > Global Options > Appearance > Editor theme`
+To change your current theme, You can select your desired Theme by going to `Tools > Global Options > Appearance > Editor theme`
 
 ### Uninstallation
 
