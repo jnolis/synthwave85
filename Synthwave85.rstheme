@@ -1,6 +1,7 @@
 /* rs-theme-name: Synthwave85 */
 /* rs-theme-is-dark: TRUE */
 /* Created by Jacqueline Nolis: https://github.com/jnolis/synthwave85 */
+/* Version: v1.0.1 */
 
 .ace_gutter {
   background: #2A2139;
