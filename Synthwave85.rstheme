@@ -23,7 +23,7 @@
 }
 
 .ace_marker-layer .ace_selection {
-  background: #34294f;
+  background: #9791A5;
 }
 
 .ace_selection.ace_start {
@@ -145,7 +145,7 @@
 }
 
 .ace_comment {
-  color: #4b4d71;
+  color: #8789b0;
 
 }
 
